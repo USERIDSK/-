@@ -19,7 +19,7 @@ markdown
 本程序**不包含** FFmpeg 核心组件，请在运行前自行准备：
 
 1. 前往 [FFmpeg 官网](https://ffmpeg.org/download.html) 或 [BtbN 的 GitHub 构建页](https://github.com/BtbN/FFmpeg-Builds/releases) 下载 `ffmpeg.exe`。
-2. **方式一（推荐）**：将 `ffmpeg.exe` 放在本程序（`.exe`）所在的同一个文件夹下。
+2. **方式一（推荐）**：将本程序放在ffmpeg.exe所在的同一个文件夹下。
 3. **方式二**：将 `ffmpeg.exe` 所在目录添加到系统环境变量 `PATH` 中。
 
 ## 🚀 如何使用
